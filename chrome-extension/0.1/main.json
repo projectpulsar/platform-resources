@@ -1,0 +1,49 @@
+{
+  "Main": {
+    "pulsar release collection": {
+      "content-type": "web",
+      "items": [
+        {
+          "title": "HelloRun",
+          "author": "HelloEnjoy",
+          "url": "http://www.hellorun.helloenjoy.com/",
+          "keymap": "{ up: 38, down: 40, start: 32, button1: 16 }",
+          "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/hellorun.png",
+          "info": "Start Button: Start game\nButton 1: Accelerate\nUp/Down: Move"
+        },
+        {
+          "title": "l'Abbaye des Morts",
+          "author": "Locomalito / Lucera",
+          "url": "http://lucera-project.com/products/abbaye",
+          "keymap": "{ start: 32, button1: 38, button2: 77, button3: 73, right: 39, left: 37, down: 40 }",
+          "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/abbaye.png",
+          "info": "Button 1: Jump\nButton 2: Mute\nButton 3: Info\nStart Button: Start game\nLeft/Right/Down: Move"
+        },
+        {
+          "title": "Minor Miner",
+          "author": "Alex Morris",
+          "url": "https://ramorris3.github.io/minor-miner/",
+          "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/minorminer.png",
+          "keymap": "{ button1: 88, button2: 32, left: 37, right: 39 }",
+          "info": "Button 1: Jump/Start game\nButton 2: Skip intro\nLeft/Right: Move"
+        },
+        {
+          "title": "Taxi Drift",
+          "author": "Rémi Vansteelandt",
+          "url": "http://taxidrift.tap2play.io",
+          "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/taxidrift.png",
+          "keymap": "{ button1: 38, button2: 40, button3: 82, left: 37, right: 39, start: 13 }",
+          "info": "Start Button: Start game\nButton 1/2: Accelerate/Brake\nButton 3: Toggle camera rotation\nLeft/Right: Drive"
+        },
+        {
+          "title": "Glitch Wizard",
+          "author": "Stephen Murray",
+          "url": "https://projectpulsar.github.io/external-content/glitchwizard/glitchwizard.html",
+          "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/glitchwizard.png",
+          "keymap": "{ left: 37, right: 39, button1: 32, start: 82 }",
+          "info": "Left/Right: Move\nButton 1: Jump\nStart Button: Play again"
+        }
+      ]
+    }
+  }
+}
