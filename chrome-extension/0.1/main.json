@@ -24,8 +24,8 @@
           "author": "Alex Morris",
           "url": "https://ramorris3.github.io/minor-miner/",
           "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/minorminer.png",
-          "keymap": "{ button1: 88, button2: 32, left: 37, right: 39 }",
-          "info": "Button 1: Jump/Start game\nButton 2: Skip intro\nLeft/Right: Move"
+          "keymap": "{ button1: 88, button2: 90, button3: 32, left: 37, right: 39 }",
+          "info": "Button 1: Jump/Start game\nButton 2: Drill\nButton 3: Skip intro\nLeft/Right: Move"
         },
         {
           "title": "Taxi Drift",
