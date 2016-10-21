@@ -11,6 +11,14 @@
           "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/hellorun.png",
           "info": "Start Button: Start game\nButton 1: Accelerate\nUp/Down: Move"
         },
+         {
+          "title": "l'Abbaye des Morts",
+          "author": "Locomalito / Lucera",
+          "url": "http://lucera-project.com/products/abbaye",
+          "keymap": "{ start: 32, button1: 38, button2: 77, button3: 73, right: 39, left: 37, down: 40 }",
+          "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/abbaye.png",
+          "info": "Button 1: Jump\nButton 2: Mute\nButton 3: Info\nStart Button: Start game\nLeft/Right/Down: Move"
+        },
         {
           "title": "Minor Miner",
           "author": "Alex Morris",
