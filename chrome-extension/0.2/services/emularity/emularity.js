@@ -5,7 +5,7 @@ function emulatorResize() {
 	var emulatorHeight = canvasElement.offsetHeight;
 	var scaleWidth = document.body.offsetWidth / emulatorWidth;
 	var scaleHeight = document.body.offsetHeight / emulatorHeight;
-	var newScale = Math.min( scaleWidth, scaleHeight );
+	var newScale = Math.min( scaleWidth, scaleHeight ) * 0.95;
 	
 	canvasElement.style.imageRendering = '-moz-crisp-edges';
 	canvasElement.style.imageRendering = '-o-crisp-edges';
