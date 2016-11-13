@@ -1,46 +1,5 @@
 {
   "Main": {
-    "the emularity": {
-      "content-type": "emularity",
-      "items": [
-        {
-          "id": "atari_2600_pitfall_1983_cce_c-813",
-          "description": "Atari 2600",
-          "keymap": "{ up: [38], down: [40], left: [37], right: [39], button1: [17], start: [50] }",
-          "info": "Up/Down/Left/Right: Move\nButton 1: Jump\nStart Button: Restart"
-        },
-        {
-          "id": "sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en",
-          "description": "Sega Genesis",
-          "keymap": "{ up: [38], down: [40], left: [37], right: [39], button1: [17], start: [49] }",
-          "info": "Up/Down/Left/Right: Move\nButton 1: Jump/Attack\nStart Button: Start game"
-        },
-        {
-          "id": "segasms_Wonder_Boy_Rev_1_1987_Sega",
-          "description": "Sega Master System",
-          "keymap": "{ up: [38], down: [40], left: [37], right: [39], button1: [17], button2: [18] }",
-          "info": "Up/Down/Left/Right: Move\nButton 1: Attack\nButton 2: Jump"
-        },
-        {
-          "id": "arcade_rtype",
-          "description": "Arcade",
-          "keymap": "{ up: [38], down: [40], left: [37], right: [39], button1: [17], button2: [18], back: [53], start: [49] }",
-          "info": "Up/Down/Left/Right: Move\nButton 1: Fire\nButton 2: Force\nBack Button: Insert coin\nStart Button: Start game"
-        },
-        {
-          "id": "zx_Robocop_1988_Ocean_128K",
-          "description": "ZX Spectrum",
-          "keymap": "{ up: [81], down: [65], left: [75], right: [76], button1: [32], back: [83], start: [49] }",
-          "info": "Up/Down/Left/Right: Move\nButton 1: Fire\nStart Button: Start game\nBack Button: Pause"
-        },
-        {
-          "id": "a2_Lode_Runner_1983_Broderbund_cr_Reset_Vector",
-          "description": "Apple II",
-          "keymap": "{ up: [104], down: [98], left: [100], right: [102], button1: [18,2], button2: [18,1] }",
-          "info": "Up/Down/Left/Right: Move\nButton 1: Dig left\nButton 2: Dig right"
-        }
-      ]
-    },
     "pulsar release collection": {
       "content-type": "web",
       "items": [
@@ -83,6 +42,47 @@
           "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/glitchwizard.png",
           "keymap": "{ left: [37], right: [39], button1: [32], start: [82] }",
           "info": "Left/Right: Move\nButton 1: Jump\nStart Button: Play again"
+        }
+      ]
+    },
+    "the emularity": {
+      "content-type": "emularity",
+      "items": [
+        {
+          "id": "atari_2600_pitfall_1983_cce_c-813",
+          "description": "Atari 2600",
+          "keymap": "{ up: [38], down: [40], left: [37], right: [39], button1: [17], start: [50] }",
+          "info": "Up/Down/Left/Right: Move\nButton 1: Jump\nStart Button: Restart"
+        },
+        {
+          "id": "sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en",
+          "description": "Sega Genesis",
+          "keymap": "{ up: [38], down: [40], left: [37], right: [39], button1: [17], start: [49] }",
+          "info": "Up/Down/Left/Right: Move\nButton 1: Jump/Attack\nStart Button: Start game"
+        },
+        {
+          "id": "segasms_Wonder_Boy_Rev_1_1987_Sega",
+          "description": "Sega Master System",
+          "keymap": "{ up: [38], down: [40], left: [37], right: [39], button1: [17], button2: [18] }",
+          "info": "Up/Down/Left/Right: Move\nButton 1: Attack\nButton 2: Jump"
+        },
+        {
+          "id": "arcade_rtype",
+          "description": "Arcade",
+          "keymap": "{ up: [38], down: [40], left: [37], right: [39], button1: [17], button2: [18], back: [53], start: [49] }",
+          "info": "Up/Down/Left/Right: Move\nButton 1: Fire\nButton 2: Force\nBack Button: Insert coin\nStart Button: Start game"
+        },
+        {
+          "id": "zx_Robocop_1988_Ocean_128K",
+          "description": "ZX Spectrum",
+          "keymap": "{ up: [81], down: [65], left: [75], right: [76], button1: [32], back: [83], start: [49] }",
+          "info": "Up/Down/Left/Right: Move\nButton 1: Fire\nStart Button: Start game\nBack Button: Pause"
+        },
+        {
+          "id": "a2_Lode_Runner_1983_Broderbund_cr_Reset_Vector",
+          "description": "Apple II",
+          "keymap": "{ up: [104], down: [98], left: [100], right: [102], button1: [18,2], button2: [18,1] }",
+          "info": "Up/Down/Left/Right: Move\nButton 1: Dig left\nButton 2: Dig right"
         }
       ]
     }
