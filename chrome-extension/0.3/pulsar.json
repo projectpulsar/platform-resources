@@ -1,0 +1,93 @@
+{
+  "title": "pulsar",
+  "channels": [
+    {
+      "title": "pulsar",
+      "thumbnail": "file.png",
+      "categories": [
+        {
+          "title": "pulsar release collection",
+          "content_type": "web",
+          "items": [
+            {
+              "title": "HelloRun",
+              "description": "HelloEnjoy",
+              "url": "http://www.hellorun.helloenjoy.com/",
+              "keymap": "{ \"up\": [38], \"down\": [40], \"start\": [32], \"button1\": [16] }",
+              "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/hellorun.png",
+              "info": "Start Button: Start game\nButton 1: Accelerate\nUp/\"down\": Move"
+            },
+            {
+              "title": "l'Abbaye des Morts",
+              "description": "Locomalito / Lucera",
+              "url": "http://lucera-project.com/products/abbaye",
+              "keymap": "{ \"start\": [32], \"button1\": [38], \"button2\": [77], button3: [73], \"right\": [39], \"left\": [37], \"down\": [40] }",
+              "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/abbaye.png",
+              "info": "Button 1: Jump\nButton 2: Mute\nButton 3: Info\nStart Button: Start game\nLeft/Right/\"down\": Move"
+            },
+            {
+              "title": "Minor Miner",
+              "description": "Alex Morris",
+              "url": "https://ramorris3.github.io/minor-miner/",
+              "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/minorminer.png",
+              "keymap": "{ \"button1\": [88], \"button2\": [90], button3: [32], \"left\": [37], \"right\": [39] }",
+              "info": "Button 1: Jump/Start game\nButton 2: Drill\nButton 3: Skip intro\nLeft/\"right\": Move"
+            },
+            {
+              "title": "Taxi Drift",
+              "description": "Rémi Vansteelandt",
+              "url": "http://taxidrift.tap2play.io",
+              "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/taxidrift.png",
+              "keymap": "{ \"button1\": [38], \"button2\": [40], button3: [82], \"left\": [37], \"right\": [39], \"start\": [13] }",
+              "info": "Start Button: Start game\nButton 1/2: Accelerate/Brake\nButton 3: Toggle camera rotation\nLeft/\"right\": Drive"
+            },
+            {
+              "title": "Glitch Wizard",
+              "description": "Stephen Murray",
+              "url": "https://projectpulsar.github.io/external-content/glitchwizard/glitchwizard.html",
+              "thumbnail": "https://projectpulsar.github.io/platform-resources/thumbnails/glitchwizard.png",
+              "keymap": "{ \"left\": [37], \"right\": [39], \"button1\": [32], \"start\": [82] }",
+              "info": "Left/\"right\": Move\nButton 1: Jump\nStart Button: Play again"
+            }
+          ]
+        },
+        {
+          "title": "the emularity",
+          "content_type": "emularity",
+          "items": [
+            {
+              "id": "atari_2600_pitfall_1983_cce_c-813",
+              "keymap": "{ \"up\": [38], \"down\": [40], \"left\": [37], \"right\": [39], \"button1\": [17], \"start\": [50] }",
+              "info": "Up/Down/Left/\"right\": Move\nButton 1: Jump\nStart Button: Restart"
+            },
+            {
+              "id": "sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en",
+              "keymap": "{ \"up\": [38], \"down\": [40], \"left\": [37], \"right\": [39], \"button1\": [17], \"start\": [49] }",
+              "info": "Up/Down/Left/\"right\": Move\nButton 1: Jump/Attack\nStart Button: Start game"
+            },
+            {
+              "id": "segasms_Wonder_Boy_Rev_1_1987_Sega",
+              "keymap": "{ \"up\": [38], \"down\": [40], \"left\": [37], \"right\": [39], \"button1\": [17], \"button2\": [18] }",
+              "info": "Up/Down/Left/\"right\": Move\nButton 1: Attack\nButton 2: Jump"
+            },
+            {
+              "id": "arcade_rtype",
+              "keymap": "{ \"up\": [38], \"down\": [40], \"left\": [37], \"right\": [39], \"button1\": [17], \"button2\": [18], \"back\": [53], \"start\": [49] }",
+              "info": "Up/Down/Left/\"right\": Move\nButton 1: Fire\nButton 2: Force\nBack Button: Insert coin\nStart Button: Start game"
+            },
+            {
+              "id": "zx_Robocop_1988_Ocean_128K",
+              "keymap": "{ \"up\": [81], \"down\": [65], \"left\": [75], \"right\": [76], \"button1\": [32], \"back\": [83], \"start\": [49] }",
+              "info": "Up/Down/Left/\"right\": Move\nButton 1: Fire\nStart Button: Start game\nBack Button: Pause"
+            },
+            {
+              "id": "a2_Lode_Runner_1983_Broderbund_cr_Reset_Vector",
+              "keymap": "{ \"up\": [104], \"down\": [98], \"left\": [100], \"right\": [102], \"button1\": [18,2], \"button2\": [18,1] }",
+              "info": "Up/Down/Left/\"right\": Move\nButton 1: Dig left\nButton 2: Dig right"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
